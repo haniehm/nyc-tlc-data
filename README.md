@@ -10,4 +10,4 @@ CSV data:
 * For-hire vehicles high volume (FHVHV): https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/fhvhv
 * Misc (zone lookup file): https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/misc
 
-The data was copied from the [NYC TLC website](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+The data was copied in 2022 from the [NYC TLC website](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) and there are some discrepancies between the website and the CSV files after the extraction date.
